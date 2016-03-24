@@ -1,0 +1,2 @@
+# PagerTS
+Typescript PagerJS Alternative
